@@ -1,21 +1,24 @@
 📖 Reader-M4: Convertidor de Texto a Audiolibro con Traducción Automática 🎧
 Reader-M4 es una herramienta interactiva que convierte archivos TXT y PDF en audiolibros en formato MP3. Incluye traducción automática, barra de progreso y permite procesar múltiples archivos en un bucle. Ideal para quienes desean escuchar libros o documentos en su idioma preferido.
 
+
 🚀 Características Principales
 ✅ Convierte archivos TXT y PDF en audiolibros MP3.
 ✅ Instalación automática de dependencias desde requirements.txt.
 
+
 🛠️ Instalación y Uso
 1️⃣ Clonar el Repositorio
 
-git clone https://github.com/tuusuario/Reader-M4.git
+git clone https://github.com/M4LVOK-SECURITY/Reader-M4
 cd Reader-M4
 2️⃣ Instalar Dependencias
 
 pip install -r requirements.txt
 3️⃣ Ejecutar el Programa
 
-python conv.py
+python Reader-M4
+
 4️⃣ Ingresar Datos en la Consola
 Ruta del archivo: C:/Users/TuUsuario/Documents/libro.pdf
 Idioma de salida: es (español) o en (inglés).
